@@ -63,6 +63,26 @@ def build_representation(tweets, vocab):
         data.append(build_features(i,vocab))
     return data
 
+def extract_features(dataset):
+    df_dataset = pd.read_csv( dataset, sep=',', index_col=None, header=0)
+
+    X = df_dataset['TWEET'].values
+
+    Y = df_dataset['CLASS'].values.astype(int)
+    Y = np.where(Y != -1, Y, 0)
+    Y = np.where(Y != 1, Y, 1)
+    
+    #limpa e tokeniza os tweets
+    cleaned_tweets = tweets_cleaner(X)
+    #constrói o vocabulário
+    vocab = build_vocab(cleaned_tweets)
+    #constrói o vetor de features para cada tweet
+    Xfeatures = np.array(build_representation(cleaned_tweets, vocab))
+    #f = util.build_features(X[1067], vocab)
+    #print(Y.shape)
+    
+    return Xfeatures, Y
+
 ###########################
 #                         #
 #    MODEL VALIDATION     #
