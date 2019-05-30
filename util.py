@@ -14,7 +14,7 @@ import re,string
 
 def tweet_cleaner(tweet, stopwords = None, s = None):
     if stopwords is None:
-        stopwords = pd.read_csv( 'datasets/stopwords.csv', sep=',', index_col=None, header=None)
+        stopwords = pd.read_csv( 'datasets/stopwords_nltk.csv', sep=',', index_col=None, header=None)
         stopwords =  np.concatenate((stopwords.iloc[:,0].values, ['AT_USER', 'URL']))
     if s is None:
         s = Stemmer()
@@ -25,12 +25,13 @@ def tweet_cleaner(tweet, stopwords = None, s = None):
     tweet = tweet.translate(str.maketrans(string.punctuation,len(string.punctuation)*' ')) # remove punctuation
     tweet = re.findall(r'[a-z]+', tweet) # split words
     tweet = [s.stem(word) for word in tweet] # stemming words
-    return [word for word in tweet if word not in stopwords]
+    tweet = [word for word in tweet if word not in stopwords] # removing stopwords
+    return tweet
 
 def tweets_cleaner(tweets, stopwords = None, s = None):
     cleaned_tweets = []
     if stopwords is None:
-        stopwords = pd.read_csv( 'datasets/stopwords.csv', sep=',', index_col=None, header=None)
+        stopwords = pd.read_csv( 'datasets/stopwords_nltk.csv', sep=',', index_col=None, header=None)
         stopwords =  np.concatenate((stopwords.iloc[:,0].values, ['AT_USER', 'URL']))
     if s is None:
         s = Stemmer()
@@ -50,12 +51,15 @@ def build_vocab(cleaned_tweets):
 
 def build_features(tweet, vocab):
     features = np.zeros(len(vocab))
-    features = np.isin(vocab, tweet).astype(int)
-    return features
+    unique, counts = np.unique(tweet, return_counts=True)
+    features[np.searchsorted(vocab, unique).astype(int)] = counts
+    #np.insert(features,np.searchsorted(vocab,unique),counts)
+    #features = np.isin(vocab, tweet).astype(int)
+    return features.astype(int)
 
 def build_representation(tweets, vocab):
     data = []
-    for i in tweets:
+    for idx, i in enumerate(tweets):
         data.append(build_features(i,vocab))
     return data
 
