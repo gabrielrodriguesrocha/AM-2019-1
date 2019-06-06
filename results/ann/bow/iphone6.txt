@@ -1,0 +1,168 @@
+
+-----------
+1-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+2-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+3-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+4-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+5-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+6-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+7-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+8-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+9-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+
+-----------
+10-fold: 
+-----------
+
+
+	Resultado no fold atual usando o melhor parametro encontrado:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
+
+	Acuracia: 1.000
+Resultado final da classificação:
+
+	Revocacao   Precisao   F-medida   Classe
+	1.000       1.000      1.000      0
+	1.000       1.000      1.000      1
+	---------------------------------------------------------------------
+	1.000       1.000      1.000      Média macro
+	1.000       1.000      1.000      Média micro
