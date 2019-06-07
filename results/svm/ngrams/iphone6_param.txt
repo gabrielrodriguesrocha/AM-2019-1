@@ -1,0 +1,7 @@
+Melhores parâmetros:
+
+Linear - C: 0.200
+
+Polinomial - C: 0.250, gamma=0.125
+
+Radial - C: 4.000, gamma=0.031
