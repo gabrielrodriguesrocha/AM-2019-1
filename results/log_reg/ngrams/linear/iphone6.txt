@@ -7,13 +7,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.688       0.579      0.629      0
-	0.784       0.853      0.817      1
+	0.333       0.455      0.385      0
+	0.833       0.750      0.789      1
 	------------------------------------------------
-	0.736       0.716      0.726      Média macro
-	0.755       0.755      0.755      Média micro
+	0.583       0.602      0.593      Média macro
+	0.686       0.686      0.686      Média micro
 
-	Acuracia: 0.755
+	Acuracia: 0.686
 
 -----------
 2-fold: 
@@ -23,13 +23,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.500       0.667      0.571      0
-	0.892       0.805      0.846      1
+	0.733       0.688      0.710      0
+	0.861       0.886      0.873      1
 	------------------------------------------------
-	0.696       0.736      0.715      Média macro
-	0.774       0.774      0.774      Média micro
+	0.797       0.787      0.792      Média macro
+	0.824       0.824      0.824      Média micro
 
-	Acuracia: 0.774
+	Acuracia: 0.824
 
 -----------
 3-fold: 
@@ -39,13 +39,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.625       0.667      0.645      0
-	0.865       0.842      0.853      1
+	0.600       0.818      0.692      0
+	0.944       0.850      0.895      1
 	------------------------------------------------
-	0.745       0.754      0.750      Média macro
-	0.792       0.792      0.792      Média micro
+	0.772       0.834      0.802      Média macro
+	0.843       0.843      0.843      Média micro
 
-	Acuracia: 0.792
+	Acuracia: 0.843
 
 -----------
 4-fold: 
@@ -55,13 +55,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.688       0.647      0.667      0
-	0.838       0.861      0.849      1
+	0.867       0.722      0.788      0
+	0.861       0.939      0.899      1
 	------------------------------------------------
-	0.763       0.754      0.758      Média macro
-	0.792       0.792      0.792      Média micro
+	0.864       0.831      0.847      Média macro
+	0.863       0.863      0.863      Média micro
 
-	Acuracia: 0.792
+	Acuracia: 0.863
 
 -----------
 5-fold: 
@@ -71,13 +71,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.625       0.588      0.606      0
-	0.811       0.833      0.822      1
+	0.467       0.412      0.437      0
+	0.722       0.765      0.743      1
 	------------------------------------------------
-	0.718       0.711      0.714      Média macro
-	0.755       0.755      0.755      Média micro
+	0.594       0.588      0.591      Média macro
+	0.647       0.647      0.647      Média micro
 
-	Acuracia: 0.755
+	Acuracia: 0.647
 
 -----------
 6-fold: 
@@ -87,13 +87,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.500       0.571      0.533      0
-	0.838       0.795      0.816      1
+	0.467       0.538      0.500      0
+	0.833       0.789      0.811      1
 	------------------------------------------------
-	0.669       0.683      0.676      Média macro
-	0.736       0.736      0.736      Média micro
+	0.650       0.664      0.657      Média macro
+	0.725       0.725      0.725      Média micro
 
-	Acuracia: 0.736
+	Acuracia: 0.725
 
 -----------
 7-fold: 
@@ -103,13 +103,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.562       0.643      0.600      0
-	0.865       0.821      0.842      1
+	0.400       0.667      0.500      0
+	0.917       0.786      0.846      1
 	------------------------------------------------
-	0.714       0.732      0.723      Média macro
-	0.774       0.774      0.774      Média micro
+	0.658       0.726      0.691      Média macro
+	0.765       0.765      0.765      Média micro
 
-	Acuracia: 0.774
+	Acuracia: 0.765
 
 -----------
 8-fold: 
@@ -119,13 +119,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.688       0.647      0.667      0
-	0.838       0.861      0.849      1
+	0.667       0.714      0.690      0
+	0.889       0.865      0.877      1
 	------------------------------------------------
-	0.763       0.754      0.758      Média macro
-	0.792       0.792      0.792      Média micro
+	0.778       0.790      0.784      Média macro
+	0.824       0.824      0.824      Média micro
 
-	Acuracia: 0.792
+	Acuracia: 0.824
 
 -----------
 9-fold: 
@@ -135,13 +135,13 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.625       0.588      0.606      0
-	0.811       0.833      0.822      1
+	0.467       0.636      0.538      0
+	0.889       0.800      0.842      1
 	------------------------------------------------
-	0.718       0.711      0.714      Média macro
-	0.755       0.755      0.755      Média micro
+	0.678       0.718      0.697      Média macro
+	0.765       0.765      0.765      Média micro
 
-	Acuracia: 0.755
+	Acuracia: 0.765
 
 -----------
 10-fold: 
@@ -151,21 +151,21 @@
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.750       0.800      0.774      0
-	0.919       0.895      0.907      1
+	0.733       0.917      0.815      0
+	0.972       0.897      0.933      1
 	------------------------------------------------
-	0.834       0.847      0.841      Média macro
-	0.868       0.868      0.868      Média micro
+	0.853       0.907      0.879      Média macro
+	0.902       0.902      0.902      Média micro
 
-	Acuracia: 0.868
+	Acuracia: 0.902
 
 Resultado final da classificação:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.625       0.640      0.630      0
-	0.846       0.840      0.842      1
+	0.573       0.657      0.605      0
+	0.872       0.833      0.851      1
 	---------------------------------------------------------------------
-	0.735       0.740      0.738      Média macro
-	0.779       0.779      0.779      Média micro
+	0.723       0.745      0.733      Média macro
+	0.784       0.784      0.784      Média micro
 
-	Acuracia: 0.779
+	Acuracia: 0.784

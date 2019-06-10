@@ -1,60 +1,283 @@
-
 -----------
 1-fold: 
 -----------
 
-Accuracy = 96.2264% (51/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 92.1569% (47/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.875       1.000      0.933      0
-	1.000       0.949      0.974      1
+	0.733       1.000      0.846      0
+	1.000       0.900      0.947      1
 	------------------------------------------------
-	0.938       0.974      0.956      Média macro
-	0.962       0.962      0.962      Média micro
+	0.867       0.950      0.906      Média macro
+	0.922       0.922      0.922      Média micro
 
-	Acuracia: 0.962
+	Acuracia: 0.922
 
 -----------
 2-fold: 
 -----------
 
-Accuracy = 98.1132% (52/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 96.0784% (49/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.938       1.000      0.968      0
-	1.000       0.974      0.987      1
+	0.867       1.000      0.929      0
+	1.000       0.947      0.973      1
 	------------------------------------------------
-	0.969       0.987      0.978      Média macro
-	0.981       0.981      0.981      Média micro
+	0.933       0.974      0.953      Média macro
+	0.961       0.961      0.961      Média micro
 
-	Acuracia: 0.981
+	Acuracia: 0.961
 
 -----------
 3-fold: 
 -----------
 
-Accuracy = 98.1132% (52/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 92.1569% (47/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.938       1.000      0.968      0
-	1.000       0.974      0.987      1
+	0.733       1.000      0.846      0
+	1.000       0.900      0.947      1
 	------------------------------------------------
-	0.969       0.987      0.978      Média macro
-	0.981       0.981      0.981      Média micro
+	0.867       0.950      0.906      Média macro
+	0.922       0.922      0.922      Média micro
 
-	Acuracia: 0.981
+	Acuracia: 0.922
 
 -----------
 4-fold: 
 -----------
 
-Accuracy = 100% (53/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 100% (51/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
@@ -71,111 +294,447 @@ Accuracy = 100% (53/53) (classification)
 5-fold: 
 -----------
 
-Accuracy = 96.2264% (51/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 96.0784% (49/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.875       1.000      0.933      0
-	1.000       0.949      0.974      1
+	0.867       1.000      0.929      0
+	1.000       0.947      0.973      1
 	------------------------------------------------
-	0.938       0.974      0.956      Média macro
-	0.962       0.962      0.962      Média micro
+	0.933       0.974      0.953      Média macro
+	0.961       0.961      0.961      Média micro
 
-	Acuracia: 0.962
+	Acuracia: 0.961
 
 -----------
 6-fold: 
 -----------
 
-Accuracy = 94.3396% (50/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 96.0784% (49/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.812       1.000      0.897      0
-	1.000       0.925      0.961      1
+	0.867       1.000      0.929      0
+	1.000       0.947      0.973      1
 	------------------------------------------------
-	0.906       0.963      0.934      Média macro
-	0.943       0.943      0.943      Média micro
+	0.933       0.974      0.953      Média macro
+	0.961       0.961      0.961      Média micro
 
-	Acuracia: 0.943
+	Acuracia: 0.961
 
 -----------
 7-fold: 
 -----------
 
-Accuracy = 84.9057% (45/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 88.2353% (45/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.562       0.900      0.692      0
-	0.973       0.837      0.900      1
+	0.667       0.909      0.769      0
+	0.972       0.875      0.921      1
 	------------------------------------------------
-	0.768       0.869      0.815      Média macro
-	0.849       0.849      0.849      Média micro
+	0.819       0.892      0.854      Média macro
+	0.882       0.882      0.882      Média micro
 
-	Acuracia: 0.849
+	Acuracia: 0.882
 
 -----------
 8-fold: 
 -----------
 
-Accuracy = 75.4717% (40/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 74.5098% (38/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.375       0.667      0.480      0
-	0.919       0.773      0.840      1
+	0.133       1.000      0.235      0
+	1.000       0.735      0.847      1
 	------------------------------------------------
-	0.647       0.720      0.681      Média macro
-	0.755       0.755      0.755      Média micro
+	0.567       0.867      0.685      Média macro
+	0.745       0.745      0.745      Média micro
 
-	Acuracia: 0.755
+	Acuracia: 0.745
 
 -----------
 9-fold: 
 -----------
 
-Accuracy = 81.1321% (43/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 76.4706% (39/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.562       0.750      0.643      0
-	0.919       0.829      0.872      1
+	0.267       0.800      0.400      0
+	0.972       0.761      0.854      1
 	------------------------------------------------
-	0.741       0.790      0.764      Média macro
-	0.811       0.811      0.811      Média micro
+	0.619       0.780      0.691      Média macro
+	0.765       0.765      0.765      Média micro
 
-	Acuracia: 0.811
+	Acuracia: 0.765
 
 -----------
 10-fold: 
 -----------
 
-Accuracy = 81.1321% (43/53) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 69.4118% (59/85) (classification)
+Accuracy = 70.5882% (60/85) (classification)
+Accuracy = 74.1176% (63/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 72.9412% (62/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 71.7647% (61/85) (classification)
+Accuracy = 76.4706% (39/51) (classification)
 
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.375       1.000      0.545      0
-	1.000       0.787      0.881      1
+	0.200       1.000      0.333      0
+	1.000       0.750      0.857      1
 	------------------------------------------------
-	0.688       0.894      0.777      Média macro
-	0.811       0.811      0.811      Média micro
+	0.600       0.875      0.712      Média macro
+	0.765       0.765      0.765      Média micro
 
-	Acuracia: 0.811
+	Acuracia: 0.765
 
 Resultado final da classificação:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.731       0.932      0.806      0
-	0.981       0.900      0.937      1
+	0.633       0.971      0.722      0
+	0.994       0.876      0.929      1
 	---------------------------------------------------------------------
-	0.856       0.916      0.884      Média macro
-	0.906       0.906      0.906      Média micro
+	0.814       0.924      0.861      Média macro
+	0.888       0.888      0.888      Média micro
 
-	Acuracia: 0.906
+	Acuracia: 0.888

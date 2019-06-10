@@ -15,7 +15,7 @@ from flask import Flask,  render_template, request
 app = Flask(__name__)
 
 model = svm_load_model('libsvm.model')
-vocab = pd.read_csv('vocab.csv', sep=',', header=None, squeeze=True).values
+vocab = pd.read_csv('vocab.csv', sep=',', header=None, squeeze=True).values.astype(str)
 
 @app.route('/')
 def main():
@@ -25,6 +25,7 @@ def main():
 def predict():
     if request.method == 'POST':
         tweet = request.form['tweet']
+        print(tweet)
         features = util.extract_features_single(tweet, vocab, rep = 'ngrams', n=3)
         print(np.argwhere(features > 0))
         pred, p_acc, p_vals = svm_predict([], bsr_matrix(features), model)

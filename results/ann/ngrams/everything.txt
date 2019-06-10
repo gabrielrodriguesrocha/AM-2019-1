@@ -9,13 +9,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.742       0.852      0.794      0
-	0.882       0.789      0.833      1
+	0.740       0.783      0.761      0
+	0.807       0.768      0.787      1
 	------------------------------------------------
-	0.812       0.820      0.816      Média macro
-	0.815       0.815      0.815      Média micro
+	0.774       0.775      0.775      Média macro
+	0.775       0.775      0.775      Média micro
 
-	Acuracia: 0.815
+	Acuracia: 0.775
 
 -----------
 2-fold: 
@@ -25,13 +25,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.780       0.844      0.811      0
-	0.868       0.812      0.839      1
+	0.717       0.820      0.765      0
+	0.852       0.762      0.804      1
 	------------------------------------------------
-	0.824       0.828      0.826      Média macro
-	0.826       0.826      0.826      Média micro
+	0.784       0.791      0.787      Média macro
+	0.786       0.786      0.786      Média micro
 
-	Acuracia: 0.826
+	Acuracia: 0.786
 
 -----------
 3-fold: 
@@ -41,13 +41,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.780       0.811      0.795      0
-	0.833       0.805      0.819      1
+	0.685       0.798      0.737      0
+	0.837       0.739      0.785      1
 	------------------------------------------------
-	0.807       0.808      0.808      Média macro
-	0.808       0.808      0.808      Média micro
+	0.761       0.768      0.765      Média macro
+	0.763       0.763      0.763      Média micro
 
-	Acuracia: 0.808
+	Acuracia: 0.763
 
 -----------
 4-fold: 
@@ -57,13 +57,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.750       0.811      0.780      0
-	0.840       0.786      0.812      1
+	0.724       0.786      0.754      0
+	0.815       0.759      0.786      1
 	------------------------------------------------
-	0.795       0.799      0.797      Média macro
-	0.797       0.797      0.797      Média micro
+	0.770       0.772      0.771      Média macro
+	0.771       0.771      0.771      Média micro
 
-	Acuracia: 0.797
+	Acuracia: 0.771
 
 -----------
 5-fold: 
@@ -73,13 +73,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.705       0.775      0.738      0
-	0.812       0.750      0.780      1
+	0.701       0.840      0.764      0
+	0.874       0.756      0.811      1
 	------------------------------------------------
-	0.759       0.762      0.761      Média macro
-	0.761       0.761      0.761      Média micro
+	0.787       0.798      0.793      Média macro
+	0.790       0.790      0.790      Média micro
 
-	Acuracia: 0.761
+	Acuracia: 0.790
 
 -----------
 6-fold: 
@@ -89,13 +89,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.765       0.849      0.805      0
-	0.875       0.803      0.837      1
+	0.724       0.793      0.757      0
+	0.822       0.760      0.790      1
 	------------------------------------------------
-	0.820       0.826      0.823      Média macro
-	0.822       0.822      0.822      Média micro
+	0.773       0.777      0.775      Média macro
+	0.775       0.775      0.775      Média micro
 
-	Acuracia: 0.822
+	Acuracia: 0.775
 
 -----------
 7-fold: 
@@ -105,13 +105,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.720       0.805      0.760      0
-	0.840       0.766      0.801      1
+	0.740       0.817      0.777      0
+	0.844       0.776      0.809      1
 	------------------------------------------------
-	0.780       0.785      0.783      Média macro
-	0.783       0.783      0.783      Média micro
+	0.792       0.796      0.794      Média macro
+	0.794       0.794      0.794      Média micro
 
-	Acuracia: 0.783
+	Acuracia: 0.794
 
 -----------
 8-fold: 
@@ -121,13 +121,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.705       0.823      0.759      0
-	0.861       0.761      0.808      1
+	0.717       0.798      0.755      0
+	0.830       0.757      0.792      1
 	------------------------------------------------
-	0.783       0.792      0.787      Média macro
-	0.786       0.786      0.786      Média micro
+	0.773       0.778      0.775      Média macro
+	0.775       0.775      0.775      Média micro
 
-	Acuracia: 0.786
+	Acuracia: 0.775
 
 -----------
 9-fold: 
@@ -137,13 +137,13 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.667       0.752      0.707      0
-	0.799       0.723      0.759      1
+	0.685       0.845      0.757      0
+	0.881       0.748      0.810      1
 	------------------------------------------------
-	0.733       0.738      0.735      Média macro
-	0.736       0.736      0.736      Média micro
+	0.783       0.797      0.790      Média macro
+	0.786       0.786      0.786      Média micro
 
-	Acuracia: 0.736
+	Acuracia: 0.786
 
 -----------
 10-fold: 
@@ -153,21 +153,21 @@ D:\Programs\Anaconda3\lib\site-packages\ipykernel_launcher.py:60: RuntimeWarning
 	Resultado no fold atual usando o melhor parametro encontrado:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.758       0.781      0.769      0
-	0.806       0.784      0.795      1
+	0.677       0.735      0.705      0
+	0.770       0.717      0.743      1
 	------------------------------------------------
-	0.782       0.783      0.782      Média macro
-	0.783       0.783      0.783      Média micro
+	0.724       0.726      0.725      Média macro
+	0.725       0.725      0.725      Média micro
 
-	Acuracia: 0.783
+	Acuracia: 0.725
 
 Resultado final da classificação:
 
 	Revocacao   Precisao   F-medida   Classe
-	0.737       0.810      0.772      0
-	0.842       0.778      0.808      1
+	0.711       0.802      0.753      0
+	0.833       0.754      0.792      1
 	---------------------------------------------------------------------
-	0.789       0.794      0.792      Média macro
-	0.792       0.792      0.792      Média micro
+	0.772       0.778      0.775      Média macro
+	0.774       0.774      0.774      Média micro
 
-	Acuracia: 0.792
+	Acuracia: 0.774
