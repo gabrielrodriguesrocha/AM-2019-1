@@ -87,6 +87,19 @@ def extract_features(dataset, rep = 'bow', n=0):
     
     return Xfeatures, Y
 
+def w2v_features(dataset):
+    df_dataset = pd.read_csv( dataset, sep=',', index_col=None, header=0)
+
+    X = df_dataset['TWEET'].values
+
+    Y = df_dataset['CLASS'].values.astype(int)
+    Y = np.where(Y != -1, Y, 0)
+    Y = np.where(Y != 1, Y, 1)
+    
+    cleaned_tweets = tweets_cleaner(X)
+    
+    return list(chain.from_iterable(cleaned_tweets))
+
 ###########################
 #                         #
 #    MODEL VALIDATION     #

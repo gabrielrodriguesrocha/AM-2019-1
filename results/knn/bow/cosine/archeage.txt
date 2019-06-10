@@ -168,3 +168,5 @@ Resultado final da classificação:
 	0.788       0.788      0.788      Média micro
 
 	Acuracia: 0.788
+
+K = 8

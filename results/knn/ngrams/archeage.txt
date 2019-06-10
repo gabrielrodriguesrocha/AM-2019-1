@@ -169,3 +169,4 @@ Resultado final da classificação:
 	0.791       0.791      0.791      Média micro
 
 	Acuracia: 0.791
+K = 12

@@ -169,3 +169,4 @@ Resultado final da classificação:
 	0.696       0.696      0.696      Média micro
 
 	Acuracia: 0.696
+K = 1
