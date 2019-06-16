@@ -1,0 +1,7 @@
+body {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url("./../images/image.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

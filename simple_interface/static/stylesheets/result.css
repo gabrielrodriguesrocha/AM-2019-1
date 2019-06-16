@@ -1,0 +1,27 @@
+body {
+    background-image: url("./../images/image.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Positivo {
+    text-align: center;
+    border: 3px solid lightgreen;
+    width: 18ch;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 3px 3px green;
+    color: #333;
+    font-size: 24pt;
+}
+
+.Negativo {
+    text-align: center;
+    border: 3px solid lightcoral;
+    width: 18ch;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 3px 3px red;
+    color: #333;
+    font-size: 24pt;
+}

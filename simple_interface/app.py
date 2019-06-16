@@ -30,4 +30,5 @@ def predict():
         print(np.argwhere(features > 0))
         pred, p_acc, p_vals = svm_predict([], bsr_matrix(features), model)
         print(pred)
+        pred[0] = int(pred[0])
         return render_template('result.html', pred=pred[0])
